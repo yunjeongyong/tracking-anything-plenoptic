@@ -1,0 +1,34 @@
+Anaconda3-2021.11-Linux-x86_64.sh
+CSWinTT/outputs/*
+CSWinTT/output/*
+CSWinTT_multi_state/result/*
+CSWinTT_multi_state/save/*
+CSWinTT_multi_state/D/tracker_assignment/test/*
+CSWinTT_multi_state/demo/configs.zip
+CSWinTT_multi_state/lib/test/segment_anything/pretrained_model/*
+CSWinTT_multi_state/lib/test/result/default_InternT_MSDeAOTL_V2/*
+CSWinTT_multi_state/demo/cuda
+CSWinTT_multi_state/demo/networks/encoders/ops_dcnv3/*
+CSWinTT_multi_state/demo/segment_anything_hq/segment_anything
+CSWinTT_multi_state/demo/segment_anything_hq/__pycache__
+CSWinTT_multi_state/demo/segment_anything_hq/segment_anything.egg-info
+CSWinTT_multi_state/demo/networks/encoders/ops_dcnv3
+CSWinTT_multi_state/demo/cudnn-11.3-linux-x64-v8.2.0.53
+CSWinTT_multi_state/demo/cudnn-11.3-linux-x64-v8.2.0.53.tar
+CSWinTT_multi_state/demo/cudnn-11.3-linux-x64-v8.2.0.53.tgz
+CSWinTT_multi_state/demo/cudnn-local-repo-ubuntu2004-8.9.4.25_1.0-1_amd64.deb
+CSWinTT_multi_state/demo/DCNv3-1.0+cu113torch1.11.0-cp37-cp37m-linux_x86_64.whl
+CSWinTT_multi_state/demo/DCNv3-1.0+cu113torch1.11.0-cp38-cp38-linux_x86_64.whl
+CSWinTT_multi_state/demo/HQTrack-.zip
+CSWinTT_multi_state/demo/HQTrack- (1).zip
+CSWinTT_multi_state/demo/packages/Pytorch-Correlation-extension/build/*
+CSWinTT_multi_state/demo/packages/Pytorch-Correlation-extension/Correlation_Module/*
+CSWinTT_multi_state/demo/packages/Pytorch-Correlation-extension/dist/*
+CSWinTT_multi_state/demo/pretrained_model/*
+CSWinTT_multi_state/HQTrack-.zip
+CSWinTT_multi_state/HQTrack- (1).zip
+CSWinTT_multi_state/HQTrack-segment_anything_hq.zip
+
+__pycache__/
+*.pyc
+*.pth

@@ -1,0 +1,17 @@
+{
+    "name": "tracking demo",
+    "save_path": "/media/mnt/Project/CSWinTT_multi_state/save",
+    "video_name": "/media/mnt/dataset/newvideo1",
+    "video_type": "2D",
+    "image2d_ref": "images/005.png",
+    "check_iou": false,
+    "is_record": true,
+    "write_bbox": true,
+    "write_conf": false,
+    "write_time": true,
+    "start_frame_num": 65,
+    "last_frame_num": 450,
+    "start_focal_num": 0,
+    "last_focal_num": 100,
+    "gpu_id": 0
+}
